@@ -41,3 +41,101 @@ a {
   top: 600px;
   padding: 20px 0;
 }
+
+.content{
+  padding: 20px;
+}
+
+#registration{
+  background-color: #CBCBCB;
+  height: 19em;
+  border-radius: 1em;
+  width: 46em;
+  -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+}
+
+input {
+  margin: 1em;
+  padding: 5px;
+
+  -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+
+}
+
+#registration_name{
+  width: 20em;
+  float: center;
+  border: none;
+  border-radius: .3em;
+}
+
+#registration_email{
+  width: 20em;
+  float: right;
+  border: none;
+  border-radius: .3em;
+}
+
+textarea#registration_doubt {
+  width: 43.3em;
+  float: center;
+  margin: 1em;
+  padding: 5px;
+
+  border: none;
+  border-radius: .3em;
+
+  -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+  box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+
+}
+
+#registration_tel{
+  width: 43.3em;
+  border: none;
+  float: center;
+  border-radius: .3em;
+}
+
+#registration_btn{
+  width: 43.3em;
+  border: none;
+  float: center;
+  border-radius: .3em;
+
+  color: white;
+  background-color: #1F8CD2;
+
+  -webkit-box-shadow:
+   inset 0 0 8px  rgba(0,0,0,0.1),
+         0 0 16px rgba(0,0,0,0.1);
+  -moz-box-shadow:
+   inset 0 0 8px  rgba(0,0,0,0.1),
+         0 0 16px rgba(0,0,0,0.1);
+  box-shadow:
+   inset 0 0 8px  rgba(0,0,0,0.1),
+         0 0 16px rgba(0,0,0,0.1);
+}
